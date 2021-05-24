@@ -1,3 +1,5 @@
+# Compare-Classification-methods-with-Python
+
 In this assignment, I have applied different classification methods and have compared the accuracy of each classifier.
 
 Dataset: Loan Applications.
